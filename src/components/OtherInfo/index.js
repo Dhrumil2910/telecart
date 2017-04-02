@@ -16,7 +16,7 @@ class OtherInfo extends Component {
       return (
         <div className="lIWrapper" key="lIWrapper">
           <div className="inputWrapper">
-            <label htmlFor="localAddress">Local Address:</label>
+            <label htmlFor="localAddress">Address:</label>
             <input id="localAddress" className="localAddress" type="text" placeholder="Local Address" />
           </div>
           <div className="inputWrapper">
