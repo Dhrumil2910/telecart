@@ -9,4 +9,4 @@ A flat e-commerce website.
 
 Open `localhost:8080` to open the app
 
-Demo - https://dhrumil2910.github.io/Telecart
+Demo - https://dhrumil2910.github.io
